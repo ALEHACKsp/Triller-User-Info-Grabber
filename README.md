@@ -23,7 +23,7 @@ Run the following command to install the required dependencies; make sure PIP is
 ```
 pip3 install requests==2.24.0
 ```
-1. Edit the targeted celebrities in the variables instance attribute if you want to. I could not be bothered making it more user-friendly, I was not planning on releasing it.
+1. Edit the targeted celebrities in the "variables" instance attribute if you want to. I could not be bothered making it more user-friendly — I was not planning on releasing it.
 2. Run main.py
 3. All set!
 
