@@ -11,9 +11,9 @@ Please refrain from using this tool as it is spamming Triller's API. I posted th
 I used a static auth_token and one proxy to make it easier for them to clean up the mess. I am hoping for this to get patched, but meanwhile, using this will be under your own responsibility.
 
 ## Preview
-![](https://i.imgur.com/zYZwwzZ.png)<br>
-![](https://i.imgur.com/uA0LJKr.jpeg)<br>
-![](https://i.imgur.com/A11XOKc.png)
+![](https://i.imgur.com/mXKIj4n.png)<br>
+![](https://i.imgur.com/LxnrXMu.jpg)<br>
+![](https://i.imgur.com/ae1WOAQ.png)
 
 ## Usage
 - Python 3.8 or above is required.
