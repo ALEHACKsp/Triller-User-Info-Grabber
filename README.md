@@ -4,7 +4,7 @@ Returns Triller users' exact locations, date of birth, mobile operating system a
 ## Information
 So, I was bored and monitored a few requests in the official Triller mobile application. I found some interesting data that should not be returned in plain text or even returned at all. If you report a comment on a Triller video, it returns the EXACT location (in latitude and longitude) of where the comment was posted from, the user's date of birth, operating system, gender and more. I made a simple script filtering verified users and a few celebrities of my choice. However, it looks like it has been patched and that they are aware of this issue, because it only works on old comments.
 
-There are other ways of fetching this data — without having to spam report; but I found them after this one. I am still surprised how people trust Triller more than TikTok; your data is not safe with them.
+There are other ways of fetching this data — without having to spam report; but I found them after this one. I am still surprised how people think Triller is more secure than TikTok; your data is not safe with them.
 
 Please refrain from using this tool as it is spamming Triller's API. I posted this to demonstrate how your information can easily be leaked. You should not trust every application.
 
