@@ -1,5 +1,5 @@
 # Triller User Info Grabber
-Returns Triller users' exact locations, date of birth, mobile operating system and more.
+Returns Triller users' exact locations, date of birth, mobile operating systems and more.
 
 ## Information
 So, I was bored and monitored a few requests in the official Triller mobile application. I found some interesting data that should not be returned in plain text or even returned at all. If you report a comment on a Triller video, it returns the EXACT location (in latitude and longitude) of where the comment was posted from, the user's date of birth, operating system, gender and more. I made a simple script filtering verified users and a few celebrities of my choice. However, it looks like it has been patched and that they are aware of this issue, because it only works on old comments.
